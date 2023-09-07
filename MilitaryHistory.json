@@ -1,0 +1,20 @@
+{
+    "images": [
+        {
+            "src": "Military Contents\\history1.jpg",
+            "title": "The Philippine-American War, 1899–1902",
+            "description": "After its defeat in the Spanish-American War of 1898, Spain ceded its longstanding colony of the Philippines to the United States in the Treaty of Paris. On February 4, 1899, just two days before the U.S. Senate ratified the treaty, fighting broke out between American forces and Filipino nationalists led by Emilio Aguinaldo who sought independence rather than a change in colonial rulers. The ensuing Philippine-American War lasted three years and resulted in the death of over 4,200 American and over 20,000 Filipino combatants. As many as 200,000 Filipino civilians died from violence, famine, and disease. </br> AUTHOR AND DATE: OFFICE OF THE HISTORIAN (2021)"
+        },
+        {
+            "src": "Military Contents\\history2.jpg",
+            "title": "The Philippines, 1942-1945: the resistance and the return",
+            "description": "Between the surrender of Corregidor in May 1942 and General Douglas MacArthur’s return in October 1944, the people of the Philippines waged a remarkable yet underappreciated war. </br>Japan’s attack had caught the defenders of the Philippines off-guard, but they still managed to extend the campaign more than 100 days longer than Japan had planned for. When ‘organised resistance was no longer practicable’, MacArthur instructed his commanders to split ‘into small groups and conduct guerrilla warfare from hidden bases in the interior of each island’. </br> Author: James Kelly Morningstar (January 10, 2022)"
+        },
+		{
+            "src": "Military Contents\\history3.jpg",
+            "title": "Battle of Marawi",
+            "description": "Nearly 300 people have died in fighting between Philippine forces and the Islamic State-linked Maute group which seized the southern city of Marawi on May 23. The attack by Maute and its allies on the island of Mindanao is the biggest warning yet that the Islamic State is building a base in Southeast Asia."
+        }
+        
+    ]
+}
